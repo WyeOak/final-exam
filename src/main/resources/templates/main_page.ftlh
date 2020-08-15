@@ -2,7 +2,7 @@
 <@main.renderWith>
   <div>
       <div>
-          <h4>Places</h4>
+          <h4>Заведения</h4>
           <div class = "place-cards">
             <#if places??>
                 <div class="wrapper">
